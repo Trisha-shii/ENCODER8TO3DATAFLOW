@@ -79,6 +79,7 @@ endmodule
 
 **TIMING DIAGRAM FOR Encoder 8 To 3 in Dataflow Modelling:**
 
+![WhatsApp Image 2024-12-28 at 9 35 59 AM](https://github.com/user-attachments/assets/bb07e2bf-691f-41ff-8dfd-07aa0cf3a0b9)
 
 
 **RESULT:**
